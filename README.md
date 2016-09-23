@@ -21,6 +21,10 @@ A harshly curated list of minimal and pragmatic JavaScript libraries. Requiremen
   - [node-less-endpoint](https://github.com/mindeavor/node-less-endpoint) - Serve LESS CSS via an express route
 - [Knex.js](http://knexjs.org/) - Excellent SQL library
 
+## Testing
+
+- [ospec](https://www.npmjs.com/package/ospec) - Easy, minimal, fast alternative to mocha/chai/jasmine/tape
+
 ## Utility
 
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Great for autocomplete features
