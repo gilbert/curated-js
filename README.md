@@ -11,6 +11,7 @@ A harshly curated list of minimal and pragmatic JavaScript libraries. Requiremen
 ## Browser JS
 
 - [Mithril.js](https://github.com/lhorie/mithril.js) - Virtual DOM Framework
+- [Rainbow](https://craig.is/making/rainbows) - Library for Syntax Highlighting
 - [Reframe.js](https://github.com/dollarshaveclub/reframe.js) - Make an iframe responsive
 
 ## Node.js
