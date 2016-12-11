@@ -16,7 +16,7 @@ A harshly curated list of minimal and pragmatic JavaScript libraries. Requiremen
 
 ## Node.js
 
-- [Node Catapult](https://github.com/Concatapult/node-catapult) - Minimal client/server boilerplate with built-in bundling and testing
+- [Concatapult](https://github.com/Concatapult/pult) - Minimal client/server boilerplate generator; add mithril/react, knex, sessions, etc. piece-by-piece via a command-line tool
 - [AuthPort](https://github.com/mindeavor/authport) - OAuth library, e.g. "Sign in with GitHub/Twitter/Facebook"
 - [Express.js](http://expressjs.com/)
   - [node-less-endpoint](https://github.com/mindeavor/node-less-endpoint) - Serve LESS CSS via an express route
