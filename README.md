@@ -13,6 +13,7 @@ A harshly curated list of minimal and pragmatic JavaScript libraries. Requiremen
 - [Mithril.js](https://github.com/lhorie/mithril.js) - Virtual DOM Framework
 - [Rainbow](https://craig.is/making/rainbows) - Library for Syntax Highlighting
 - [Reframe.js](https://github.com/dollarshaveclub/reframe.js) - Make an iframe responsive
+- [Popper.js](https://github.com/FezVrasta/popper.js/) - A mobile-friendly popup engine that covers all the edge cases.
 
 ## Node.js
 
